@@ -6,7 +6,6 @@ Proyek ini berisi file **HTML** dan **CSS** dasar serta contoh penggunaan **bran
 🚀 Langkah Pembuatan Proyek
 
 1️⃣ Buat Folder Proyek 📂
-```bash
 mkdir proyek1-web 
 cd proyek1-web
 <img width="331" height="78" alt="ss1" src="https://github.com/user-attachments/assets/7d147f7c-726d-43e5-a099-04c3395fdcff" />
