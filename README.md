@@ -3,7 +3,7 @@
 Repositori ini adalah contoh sederhana penggunaan **Git** dan **GitHub** dalam pengembangan web.  
 Proyek ini berisi file **HTML** dan **CSS** dasar serta contoh penggunaan **branching** dan **merging** di Git.
 
-# 🚀 Langkah Pembuatan Proyek
+## 🚀 Langkah Pembuatan Proyek
 
 ### 1️⃣ Buat Folder Proyek 📂
 
